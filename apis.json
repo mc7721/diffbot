@@ -1,0 +1,63 @@
+{
+    "name": "Diffbot",
+    "description": "Never write another web scraper. Diffbot automates web data extraction from any website using AI, computer vision, &amp; machine learning.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/181-diffbot.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "content",
+        "crawling",
+        "extraction",
+        "have api",
+        "machine learning",
+        "machine learning scraping",
+        "scraping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/diffbot\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.diffbot.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/diffbot.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.diffbot.com\/api\/rss\/www.diffbot.com\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/diffbot"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/diffbot"
+        },
+        {
+            "type": "Email",
+            "url": "support@diffbot.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@diffbot.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/diffbot"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/diffbot"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.diffbot.com\/our-apis\/follow\/"
+        }
+    ]
+}
